@@ -21,7 +21,8 @@ PVP mode only.
 
 ## Supported Platform
 
-macOS/Linux
+- macOS
+- Linux
 
 ## Compile
 
@@ -39,4 +40,4 @@ g++ main.cpp model.cpp view.cpp controller.cpp -o reversi-cli
 
 - `W`, `A`, `S`, `D` or `↑`, `←`, `↓`, `→`: move cursor
 - `Enter`: confirm
-- `ESC`: quit
+- `Esc`: quit
