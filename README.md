@@ -25,12 +25,15 @@ macOS/Linux
 
 ## Compile
 
-```g++ main.cpp model.cpp view.cpp controller.cpp -o reversi-cli```
+```
+g++ main.cpp model.cpp view.cpp controller.cpp -o reversi-cli
+```
 
 ## Run
 
-```./reversi-cli```
-
+```
+./reversi-cli
+```
 
 ## Guide
 
