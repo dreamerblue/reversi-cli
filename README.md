@@ -31,6 +31,7 @@ macOS/Linux
 
 ```./reversi-cli```
 
+
 ## Guide
 
 - `W`, `A`, `S`, `D` or `↑`, `←`, `↓`, `→`: move cursor
