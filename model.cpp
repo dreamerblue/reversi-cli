@@ -106,8 +106,8 @@ void Judge(point p) {
 		// If piece(s) in "tmp" can be reversed, copy to "reversed"
 		if(InBoard(next) && pieces[next.x][next.y].color==turn) {
 			num += tmp.size();
-			for(int i=0; i<tmp.size(); ++i) {
-				reversed.push_back(tmp[i]);
+			for(int j=0; j<tmp.size(); ++j) {
+				reversed.push_back(tmp[j]);
 			}
 		}
 	}
