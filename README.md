@@ -17,7 +17,7 @@ PVP mode only.
 
 ## Screenshot
 
-![alt text](https://github.com/dreamerblue/reversi-cli/raw/master/reversi-cli_screenshot.png)
+![Screenshot](https://github.com/dreamerblue/reversi-cli/raw/master/reversi-cli_screenshot.png)
 
 ## Supported Platform
 
